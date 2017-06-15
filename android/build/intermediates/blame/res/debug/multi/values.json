@@ -1,0 +1,256 @@
+[
+    {
+        "outputFile": "/Users/MartinRGB/Desktop/alexey_smovzh-shaderslw-0f93b441fc5d/android/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 37,
+                    "endOffset": 88
+                },
+                "from": {
+                    "file": "/Users/MartinRGB/Desktop/alexey_smovzh-shaderslw-0f93b441fc5d/android/res/values/tags.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 94,
+                        "endColumn": 38,
+                        "endOffset": 128
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 93,
+                    "endColumn": 37,
+                    "endOffset": 126
+                },
+                "from": {
+                    "file": "/Users/MartinRGB/Desktop/alexey_smovzh-shaderslw-0f93b441fc5d/android/res/values/tags.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 38,
+                        "endOffset": 89
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 131,
+                    "endColumn": 59,
+                    "endOffset": 186
+                },
+                "from": {
+                    "file": "/Users/MartinRGB/Desktop/alexey_smovzh-shaderslw-0f93b441fc5d/android/res/values/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 59,
+                        "endOffset": 110
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 191,
+                    "endColumn": 95,
+                    "endOffset": 282
+                },
+                "from": {
+                    "file": "/Users/MartinRGB/Desktop/alexey_smovzh-shaderslw-0f93b441fc5d/android/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 173,
+                        "endColumn": 95,
+                        "endOffset": 264
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 287,
+                    "endColumn": 57,
+                    "endOffset": 340
+                },
+                "from": {
+                    "file": "/Users/MartinRGB/Desktop/alexey_smovzh-shaderslw-0f93b441fc5d/android/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 115,
+                        "endColumn": 57,
+                        "endOffset": 168
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 345,
+                    "endColumn": 91,
+                    "endOffset": 432
+                },
+                "from": {
+                    "file": "/Users/MartinRGB/Desktop/alexey_smovzh-shaderslw-0f93b441fc5d/android/res/values/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 502,
+                        "endColumn": 91,
+                        "endOffset": 589
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 437,
+                    "endColumn": 47,
+                    "endOffset": 480
+                },
+                "from": {
+                    "file": "/Users/MartinRGB/Desktop/alexey_smovzh-shaderslw-0f93b441fc5d/android/res/values/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 454,
+                        "endColumn": 47,
+                        "endOffset": 497
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 485,
+                    "endColumn": 65,
+                    "endOffset": 546
+                },
+                "from": {
+                    "file": "/Users/MartinRGB/Desktop/alexey_smovzh-shaderslw-0f93b441fc5d/android/res/values/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 594,
+                        "endColumn": 65,
+                        "endOffset": 655
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 551,
+                    "endColumn": 56,
+                    "endOffset": 603
+                },
+                "from": {
+                    "file": "/Users/MartinRGB/Desktop/alexey_smovzh-shaderslw-0f93b441fc5d/android/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 397,
+                        "endColumn": 56,
+                        "endOffset": 449
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 608,
+                    "endColumn": 63,
+                    "endOffset": 667
+                },
+                "from": {
+                    "file": "/Users/MartinRGB/Desktop/alexey_smovzh-shaderslw-0f93b441fc5d/android/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 333,
+                        "endColumn": 63,
+                        "endOffset": 392
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 672,
+                    "endColumn": 62,
+                    "endOffset": 730
+                },
+                "from": {
+                    "file": "/Users/MartinRGB/Desktop/alexey_smovzh-shaderslw-0f93b441fc5d/android/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 270,
+                        "endColumn": 62,
+                        "endOffset": 328
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 735,
+                    "endColumn": 93,
+                    "endOffset": 824
+                },
+                "from": {
+                    "file": "/Users/MartinRGB/Desktop/alexey_smovzh-shaderslw-0f93b441fc5d/android/res/values/strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 661,
+                        "endColumn": 93,
+                        "endOffset": 750
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 829,
+                    "endLine": 21,
+                    "endColumn": 12,
+                    "endOffset": 1287
+                },
+                "from": {
+                    "file": "/Users/MartinRGB/Desktop/alexey_smovzh-shaderslw-0f93b441fc5d/android/res/values/styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 475
+                    }
+                }
+            }
+        ]
+    }
+]

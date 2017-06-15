@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tag_icon" type="id"/>
+    <item name="tag_name" type="id"/>
+    <string name="app_name">Shaders Live Wallpaper</string>
+    <string name="description">Example GLSL shaders Live Wallpaper created with LibGDX</string>
+    <string name="preview_name">Shaders Settings</string>
+    <string name="rate_btn_description">Rate Shaders Live Wallpaper on Google Play</string>
+    <string name="rate_btn_title">RATE</string>
+    <string name="shader_dialog_title">SELECT THE SHADER</string>
+    <string name="shader_title">Select shader: </string>
+    <string name="size_title">Change shader items size</string>
+    <string name="speed_title">Change animation speed</string>
+    <string name="toast_instruct_lwp_list">From the list of live wallpapers choose: </string>
+    <style name="GdxTheme" parent="android:Theme">
+		<item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+</resources>

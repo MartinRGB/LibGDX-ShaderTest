@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Shaders Live Wallpaper</string>
+    <string name="preview_name">Shaders Settings</string>
+    <string name="description">Example GLSL shaders Live Wallpaper created with LibGDX</string>
+
+    <string name="speed_title">Change animation speed</string>
+    <string name="size_title">Change shader items size</string>
+    <string name="shader_title">Select shader: </string>
+    <string name="rate_btn_title">RATE</string>
+    <string name="rate_btn_description">Rate Shaders Live Wallpaper on Google Play</string>
+    <string name="shader_dialog_title">SELECT THE SHADER</string>
+
+    <string name="toast_instruct_lwp_list">From the list of live wallpapers choose: </string>
+</resources>

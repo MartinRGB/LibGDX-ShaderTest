@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/MartinRGB/Desktop/alexey_smovzh-shaderslw-0f93b441fc5d/core/build/libs/core-1.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="e5acec3e840938870d70320a89325b2ac97a0858">
+        <dex dex="/Users/MartinRGB/Desktop/alexey_smovzh-shaderslw-0f93b441fc5d/android/build/intermediates/pre-dexed/debug/core-1.0_113015e1374662705b7e6bf9722336c782e90508.jar" />
+    </item>
+
+</items>
