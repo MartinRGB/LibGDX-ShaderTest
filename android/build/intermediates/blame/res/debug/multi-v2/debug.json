@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/martinrgb/Desktop/OPPO/LibGDX-ShaderTest/android/build/intermediates/res/merged/debug/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/martinrgb/Desktop/OPPO/LibGDX-ShaderTest/android/res/values/tags.xml",
+                    "from": {
+                        "startLines": "3,2",
+                        "startColumns": "4,4",
+                        "startOffsets": "94,55",
+                        "endColumns": "38,38",
+                        "endOffsets": "128,89"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,93",
+                        "endColumns": "37,37",
+                        "endOffsets": "88,126"
+                    }
+                },
+                {
+                    "source": "/Users/martinrgb/Desktop/OPPO/LibGDX-ShaderTest/android/res/values/styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "17",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "475"
+                    },
+                    "to": {
+                        "startLines": "14",
+                        "startColumns": "4",
+                        "startOffsets": "829",
+                        "endLines": "21",
+                        "endColumns": "12",
+                        "endOffsets": "1287"
+                    }
+                },
+                {
+                    "source": "/Users/martinrgb/Desktop/OPPO/LibGDX-ShaderTest/android/res/values/strings.xml",
+                    "from": {
+                        "startLines": "2,4,3,10,9,11,8,7,6,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,173,115,502,454,594,397,333,270,661",
+                        "endColumns": "59,95,57,91,47,65,56,63,62,93",
+                        "endOffsets": "110,264,168,589,497,655,449,392,328,750"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "131,191,287,345,437,485,551,608,672,735",
+                        "endColumns": "59,95,57,91,47,65,56,63,62,93",
+                        "endOffsets": "186,282,340,432,480,546,603,667,730,824"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -45,7 +45,7 @@ varying float v_time;
 //}
 
 
-//Noise2 - Value2D
+//Noise2 - Value2D - 47fps
 float noise( vec2 _st )
 {
     //  https://github.com/BrianSharpe/Wombat/blob/master/Value2D.glsl
